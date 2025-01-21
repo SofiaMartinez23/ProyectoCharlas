@@ -1,11 +1,8 @@
 <div align="center">
   <h1 align="center">Chat Estilo WhatsApp con Hilos Cliente-Servidor 👾</h1>
-  <img src="Logo.png" alt="Logo" width="200">
+  <img src="https://www.jc-mouse.net/wp-content/uploads/2016/08/cliente_servidor_java.gif" alt="Logo" width="200">
 </div>
 
-<p align="center">
-  [![GitHub followers](https://img.shields.io/github/followers/sofiamartinez?style=social)](https://github.com/SofiaMartinez23)
-</p>
 
 ---
 
